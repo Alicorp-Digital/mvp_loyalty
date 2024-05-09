@@ -1,1 +1,1 @@
-# mvp_loyalty
+# insuma_puntos
